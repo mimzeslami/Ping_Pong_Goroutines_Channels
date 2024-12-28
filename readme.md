@@ -98,5 +98,5 @@ This project is ideal for learning:
 ---
 
 ## Author
-[Your Name]  
+Mohammadreza Eslami  
 Ping Pong Game with Go’s Concurrency Features
